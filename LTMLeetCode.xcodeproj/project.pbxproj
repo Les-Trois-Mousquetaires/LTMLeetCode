@@ -15,6 +15,7 @@
 		278FA97F247B9A9E006EC74F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 278FA97D247B9A9E006EC74F /* LaunchScreen.storyboard */; };
 		278FA98A247B9A9E006EC74F /* LTMLeetCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278FA989247B9A9E006EC74F /* LTMLeetCodeTests.swift */; };
 		278FA995247B9A9E006EC74F /* LTMLeetCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278FA994247B9A9E006EC74F /* LTMLeetCodeUITests.swift */; };
+		278FA9A3247BB792006EC74F /* LeetCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278FA9A2247BB792006EC74F /* LeetCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		278FA990247B9A9E006EC74F /* LTMLeetCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LTMLeetCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		278FA994247B9A9E006EC74F /* LTMLeetCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LTMLeetCodeUITests.swift; sourceTree = "<group>"; };
 		278FA996247B9A9E006EC74F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		278FA9A2247BB792006EC74F /* LeetCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				278FA972247B9A9A006EC74F /* AppDelegate.swift */,
 				278FA974247B9A9A006EC74F /* SceneDelegate.swift */,
 				278FA976247B9A9A006EC74F /* ViewController.swift */,
+				278FA9A2247BB792006EC74F /* LeetCode.swift */,
 				278FA978247B9A9A006EC74F /* Main.storyboard */,
 				278FA97B247B9A9E006EC74F /* Assets.xcassets */,
 				278FA97D247B9A9E006EC74F /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				278FA977247B9A9A006EC74F /* ViewController.swift in Sources */,
 				278FA973247B9A9A006EC74F /* AppDelegate.swift in Sources */,
+				278FA9A3247BB792006EC74F /* LeetCode.swift in Sources */,
 				278FA975247B9A9A006EC74F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
